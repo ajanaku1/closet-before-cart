@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title description">
+  <title id="title">Closet Before Cart</title>
+  <desc id="description">A sky-blue shopping cart whose basket is formed by two wardrobe doors, with a terracotta spending gate.</desc>
+  <rect width="160" height="160" fill="#FFFFFF"/>
+  <path d="M17 27h31l14 79h68" fill="none" stroke="#69BCEB" stroke-width="8" stroke-linecap="square"/>
+  <path d="M48 40h40v62H58z" fill="#69BCEB"/>
+  <path d="M94 40l42 14-12 48H94z" fill="#69BCEB"/>
+  <path d="M54 46h28v50H63zM100 48l29 10-10 38h-19z" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="87" y="40" width="7" height="62" fill="#D98268"/>
+  <circle cx="80" cy="72" r="2.5" fill="#FFFFFF"/>
+  <circle cx="119" cy="72" r="2.5" fill="#FFFFFF"/>
+  <circle cx="70" cy="128" r="10" fill="#69BCEB"/>
+  <circle cx="116" cy="128" r="10" fill="#69BCEB"/>
+</svg>

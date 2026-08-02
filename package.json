@@ -1,0 +1,20 @@
+{
+  "name": "closet-before-cart",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --import tsx --test",
+    "build": "node scripts/build.mjs",
+    "db:migrate": "node scripts/migrate.mjs",
+    "typecheck": "tsc --noEmit",
+    "verify": "npm run typecheck && npm test && npm run build"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "inngest": "^4.14.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.4"
+  }
+}

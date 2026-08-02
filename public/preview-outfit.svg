@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 640" role="img" aria-labelledby="title description">
+  <title id="title">Synthetic editorial outfit preview</title>
+  <desc id="description">A white formal shirt and navy trousers above an outlined space for missing formal shoes.</desc>
+  <rect width="560" height="640" rx="28" fill="#EFF9FE"/>
+  <path d="M138 70c56-34 228-32 286 20 55 49 49 372-11 429-57 55-225 56-285 3-66-58-64-407 10-452Z" fill="#FFFFFF" stroke="#D9EDF7" stroke-width="3"/>
+  <path d="M219 110 257 92h46l38 18 54 53-34 42-30-27v144H229V178l-30 27-34-42 54-53Z" fill="#69BCEB"/>
+  <path d="M257 92c6 22 40 22 46 0l-8 48h-30l-8-48Z" fill="#FFFFFF"/>
+  <path d="M231 342h100l30 171h-60l-21-99-21 99h-60l32-171Z" fill="#758DA0"/>
+  <rect x="194" y="505" width="172" height="52" rx="8" fill="#FFF4F0" stroke="#D98268" stroke-width="3" stroke-dasharray="9 8"/>
+  <text x="280" y="537" text-anchor="middle" fill="#9F543E" font-family="Avenir Next, sans-serif" font-size="16" font-weight="700" letter-spacing="2">SHOES · GAP</text>
+</svg>

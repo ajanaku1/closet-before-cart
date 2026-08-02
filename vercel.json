@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".build/public",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/.well-known/ucp",
+      "destination": "/api/ucp"
+    }
+  ],
+  "functions": {
+    "api/**/*.mjs": {
+      "maxDuration": 30
+    },
+    "api/**/*.ts": {
+      "maxDuration": 300
+    }
+  }
+}

@@ -1,0 +1,34 @@
+# Documentation and local build briefs
+*.md
+!README.md
+
+# Dependencies and build output
+node_modules/
+.next/
+.build/
+dist/
+build/
+*.log
+
+# Secrets and deployment state
+.env
+.env.local
+.env.*.local
+.vercel/
+.Codex/
+
+# Local design and process artifacts
+ai/
+renders/
+proposals/
+brand/mark-round-*-verdicts.md
+
+# Upload the demo video separately
+video/
+*.mov
+*.mp4
+*.MP4
+
+# Operating system files
+.DS_Store
+.env*
