@@ -173,9 +173,6 @@ src/presentation/         state-aware Style Proof renderer
 tests/                    unit, contract, database, workflow, and UI tests
 ```
 
-## Demo script
-
-Use [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for the 90-second judge walkthrough.
 
 ## License
 
