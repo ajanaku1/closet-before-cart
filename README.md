@@ -4,7 +4,7 @@ Closet Before Cart (CBC) is a closet-first shopping experience and iMessage styl
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-24%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tests](https://img.shields.io/badge/tests-142_passing-2F855A)](#testing)
+[![Tests](https://img.shields.io/badge/tests-143_passing-2F855A)](#testing)
 [![License: MIT](https://img.shields.io/badge/license-MIT-69BCEB)](LICENSE)
 
 ![CBC editorial storefront on desktop](docs/images/landing.png)

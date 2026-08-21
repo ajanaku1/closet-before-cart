@@ -38,6 +38,15 @@ test("the public demo exposes the supplied CBC phone number as call and text lin
   assert.match(html, /href="sms:\+13109269508"/);
 });
 
+test("the public demo displays the authorized X account in the footer", () => {
+  const html = renderProofDocument(demoGapProof);
+
+  assert.match(
+    html,
+    /<footer>[\s\S]*href="https:\/\/x\.com\/curioswhispers"[^>]*>@curioswhispers<\/a>/,
+  );
+});
+
 const baseModel: ProofPageModel = {
   caseId: "CASE-0142",
   decision: "GAP_FOUND",
